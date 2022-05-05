@@ -33,7 +33,7 @@ const {
 // < 16
 
 function exponencial(exp) {
-
+asdjkhfgasdhjfgasd
 }
 
 // ----- Recursión -----
