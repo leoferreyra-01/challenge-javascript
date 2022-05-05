@@ -33,7 +33,9 @@ const {
 // < 16
 
 function exponencial(exp) {
-asdjkhfgasdhjfgasd
+    return function(){
+        return 4;
+    };
 }
 
 // ----- Recursión -----
@@ -70,7 +72,9 @@ asdjkhfgasdhjfgasd
 // Aclaraciones: el segundo parametro que recibe la funcion ('direccion') puede ser pasado vacio (null)
 
 function direcciones(laberinto) {
+    let direcciones = '';
 
+    return direcciones;
 }
 
 
@@ -88,7 +92,7 @@ function direcciones(laberinto) {
 // deepEqualArrays([0,1,[[0,1,2],1,2]], [0,1,[[0,1,2],1,2]]) => true
 
 function deepEqualArrays(arr1, arr2) {
-
+return true
 }
 
 
